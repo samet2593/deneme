@@ -2,7 +2,7 @@ var chart;
 
 // ApexCharts grafiği render etme
 var options = {
-    chart: {
+    chart: {ffffffffffffffff
         type: 'line',
         height: 250,
         width: '100%',
