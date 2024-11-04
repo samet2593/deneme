@@ -1,7 +1,7 @@
 var chart;
 
 // ApexCharts grafiği render etme
-var options = {
+var options = {deneme test2222222
     chart: {ffffffffffffffff
         type: 'line',
         height: 250,
